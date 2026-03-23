@@ -32,7 +32,7 @@ Superstore Sales Dataset (Kaggle)
 This project demonstrates practical skills in data analysis, visualization, and business insight generation.
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-03-22 222105.png)
+![Dashboard]<img width="1879" height="612" alt="Screenshot 2026-03-22 222105" src="https://github.com/user-attachments/assets/14a14535-dfbe-438c-b70c-4682d370b742" />
 
 
 ## 🔗 Author
