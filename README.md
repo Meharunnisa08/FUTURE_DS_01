@@ -33,8 +33,10 @@ This project demonstrates practical skills in data analysis, visualization, and 
 
 ## 📷 Dashboard Preview
 
-(Add screenshot here)
+<img width="1879" height="612" alt="Screenshot 2026-03-22 222105" src="https://github.com/user-attachments/assets/bdfba58b-b16c-433e-b32b-4d12cbcc5a76" />
+<img width="1879" height="612" alt="Screenshot 2026-03-22 222105" src="https://github.com/user-attachments/assets/bdfba58b-b16c-433e-b32b-4d12cbcc5a76" />
+
 
 ## 🔗 Author
 
-Your Name
+Shaik Meharunnisa
