@@ -39,7 +39,7 @@ This project demonstrates practical skills in data analysis, visualization, and 
 - Data Visualization
 - Excel Pivot Tables
 - Dashboard Creation
-- 
+
 ## 🔗 Author
 
-Shaik Meharunnisa
+Meharunnisa
